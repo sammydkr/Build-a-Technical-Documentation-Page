@@ -1,0 +1,28 @@
+#navbar {
+  width: 45%;
+}
+
+@media (max-width: 768 px){
+  body {
+    background-color:green;
+  }
+}
+
+body {
+  margin: 0;
+  background-color:white;
+  color:black
+}
+
+code {
+  background-color:#CCC
+  display:block;
+  padding:20px;
+}
+
+header {
+  font-size:1.5em;
+  font-weight:bold;
+}
+
+
